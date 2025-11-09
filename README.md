@@ -1,9 +1,9 @@
 ## Structure
 
 * [`ddl.sql`](/ddl.sql) – contains implementation of task 1: SQL statements for creating database tables, defining relationships between them, and setting up constraints for restaurant database schema
-* [`insert_data.sql`](/insert_data.sql) – provides sample data
 * [`oltp.sql`](/oltp.sql) – contains implementation of task 2: includes transactional (OLTP) queries
 * [`olap.sql`](/olap.sql) – contains implementation of task 3: includes analytical (OLAP) queries
+* [`insert_data.sql`](/insert-data.sql) – provides sample data
 
 ## Tasks
 
